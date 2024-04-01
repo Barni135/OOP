@@ -55,7 +55,7 @@ public class Calculation {
     }
 }
 ```
-![Завдання 1](image.png)
+![Завдання 1](Image/image.png)
 
 Завдання 2
 
@@ -178,7 +178,7 @@ public class Tester {
 }
 ```
 
-![Завдання 2](image-1.png)
+![Завдання 2](Image/image-1.png)
 
 Завдання 3
 
@@ -263,7 +263,7 @@ public class SerializationDemo {
 }
 ```
 
-![Завдання 3](image-2.png)
+![Завдання 3](Image/image-2.png)
 
 Індувідуальне завдання 1
 ```package Src;
@@ -303,4 +303,4 @@ public class KineticEnergyCalculator {
     }
 }
 ```
-![Індувідуальне завдання 1](image-3.png)
+![Індувідуальне завдання 1](Image/image-3.png)
