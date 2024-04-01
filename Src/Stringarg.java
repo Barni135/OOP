@@ -1,4 +1,7 @@
-public class Main {
+package Src;
+
+
+public class Stringarg {
     public static void main(String[] args) {
         // Перевірка, чи є аргументи командного рядка
         if (args.length == 0) {
