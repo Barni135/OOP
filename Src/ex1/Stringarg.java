@@ -1,4 +1,4 @@
-package Src;
+package Src.ex1;
 
 
 public class Stringarg {
