@@ -305,4 +305,4 @@ public class UserInterface {
 }
 
  ```
- ![Result](Image/image-1.png)
+![Result](../Image/image-1.png)

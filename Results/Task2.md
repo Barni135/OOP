@@ -132,5 +132,4 @@ public class Test {
     }
 }
  ```
-
- ![Result](Image/image.png)
+![Result](../Image/image.png)
