@@ -4,6 +4,9 @@ package Src.ex2_3;
  * Конкретна реалізація CalculationResult, що представляє певний тип результату.
  */
 public class BasicCalculationResult extends CalculationResult {
+    private double mass;
+    private double velocity; // Додайте поле для збереження швидкості
+
     /**
      * Конструктор для створення об'єкта BasicCalculationResult з вказаною масою та швидкістю.
      *
@@ -12,6 +15,26 @@ public class BasicCalculationResult extends CalculationResult {
      */
     public BasicCalculationResult(double mass, double velocity) {
         super(mass, velocity);
+        this.mass = mass;
+        this.velocity = velocity; // Ініціалізуйте поле швидкості
+    }
+
+    /**
+     * Отримує масу об'єкта.
+     *
+     * @return маса об'єкта
+     */
+    public double getMass() {
+        return mass;
+    }
+
+    /**
+     * Отримує швидкість об'єкта.
+     *
+     * @return швидкість об'єкта
+     */
+    public double getVelocity() {
+        return velocity;
     }
 
     /**
