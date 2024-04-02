@@ -18,7 +18,7 @@ public class Stringarg {
     }
 }
  ```
-![Result](Image/image.png)
+![Result](Image/image-2.png)
 
 
 Завдання 2
