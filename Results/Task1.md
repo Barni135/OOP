@@ -18,4 +18,4 @@ public class Stringarg {
     }
 }
  ```
-![Result](/workspaces/OOP/Image/image-2.png)
+![alt text](../Image/image-2.png))
